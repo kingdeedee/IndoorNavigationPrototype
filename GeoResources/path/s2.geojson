@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","name":"B52_G","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"coordinates":[[-0.628798798079572,52.07077040778316],[-0.6287743659879084,52.070832983177695],[-0.6284543055938627,52.07079193372854],[-0.628471408058715,52.07081896629694]],"type":"LineString"}}]}
